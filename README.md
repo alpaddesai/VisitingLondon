@@ -1,5 +1,5 @@
 # Visiting London
 
-![image](VisitingLondon.JPG)
+![image](VisitingLondonI.jpg)
 
 Additional details please reference https://github.com/alpaddesai/LifeStyle
